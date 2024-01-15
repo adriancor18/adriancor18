@@ -1,7 +1,6 @@
 # ADRIÁN CORRALES -- Android & Kotlin Developer 🚀
 
 <img src="https://ibb.co/WVTfQH8">
-<img src="https://i.imgur.com/weNbhGZ.png">
 
 Hello! 👋 I'm Adrián, a passionate Android developer with notable experience in Kotlin. My focus is on creating innovative and efficient mobile applications that provide exceptional user experiences. 📱✨
 
