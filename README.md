@@ -22,5 +22,5 @@ I'm always exploring new technologies and learning more to enhance my skills. Cu
 - [Spanish Web](https://adriancor18.github.io/PaginaWeb/)
 - [English Web](https://adriancor18.github.io/WebPage/)
 
-- 
+
 Thanks for visiting my profile! 😊✨
